@@ -2,7 +2,6 @@
 
 Team Helsinki Front-End Written In React
 
-created using create-react-app
 ### Project Description
 
 Add here
